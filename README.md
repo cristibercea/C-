@@ -1,4 +1,4 @@
-# C++ Projects
+# C++ Projects Source Codes
 - A console cpp project made for a uni lab
 - Some QT Framework projects made for labs and extra stuff I have made, in order to prepare for some exams
 
