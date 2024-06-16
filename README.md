@@ -5,4 +5,5 @@
 - C++ and QT Framework simulation and exam source codes
 
  < Projects made in Visual Studio 2022 IDE >
- -><b>Note:<\b> Codes may be incomplete but they are tested and functional
+ 
+ <b>Note:<\b> Codes may be incomplete but they are tested and functional
