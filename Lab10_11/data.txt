@@ -1,0 +1,56 @@
+Alin
+1
+penthouse premium
+187
+Dan
+3
+duplex
+100
+Pascal Gigi
+6
+duplex
+87
+Xenopol
+2
+coliba mica
+37
+Clara
+5
+garsoniera
+20
+Maria
+4
+mansarda
+39
+Ana
+7
+conac
+300
+Marcellino
+8
+penthouse premium
+170
+Bogdan
+9
+garsoniera
+38
+Paul
+10
+coliba mica
+52
+Diana
+11
+duplex
+91
+Vladimir
+12
+conac
+375
+Laurentiu
+14
+subsol
+69
+Penelopa
+13
+garaj
+17
