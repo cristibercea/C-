@@ -1,9 +1,10 @@
 # C/C++ Projects Source Codes
-- A console c project made for a uni lab
-- A console cpp project made for a uni lab
-- Some QT Framework projects made for labs and extra stuff I have made, in order to prepare for some exams
-- C++ and QT Framework simulation and exam source codes
+- A console-based c project (Lab2-4)
+- A console-based cpp project (Lab6-7)
+- A cpp project using QT Framework (Lab10_11)
+- Some extra cpp+QT projects I have made in order to prepare for practical exams
+- C++ and QT Framework simulation(Simulare_mai_2024) and exam(Examen_iunie_2024) source codes
 
- < Projects made in Visual Studio 2022 IDE >
+ < Projects were developed in Visual Studio 2022 IDE and CLion IDE, using QT Framework >
  
- <b>Note: Some codes may be incomplete but they are tested and functional
+ <b>Note: Some projects may seem incomplete. Anyways, they are tested and functional! :))
